@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "scrapy-bench",
+  "versions": [
+    {
+      "commit": "48626327dc5d3b2195a16ad755b92174de123e35",
+      "tag": "",
+      "parsed_at": "2026-10-12T06:19:26.450493+00:00"
+    }
+  ]
+}
